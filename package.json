@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/hurick/task-management#readme",
   "dependencies": {
-    "@types/node": "25.1.0",
+    "@types/node": "25.2.0",
     "csv-parse": "6.1.0"
   }
 }
